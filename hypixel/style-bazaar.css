@@ -1,7 +1,30 @@
-table {
-	border-collapse: collaspe;
+html {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
-td, th {
-	border; 1ps solid black;	
+table, th, td {
+	border-collapse: collapse;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.table-select-table {
+	table-layout: auto;
+	width: 100%;
+}
+
+.caption-title {
+	text-align: center;
+}
+
+.p-footer {
+	text-align: center;
+}
+
+.p-error {
+	color: red;
+	text-align: center;
 }
