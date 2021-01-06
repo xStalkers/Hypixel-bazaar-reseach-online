@@ -1,7 +1,7 @@
 # Hypixel-bazaar-reseach-online
 Small script in php and html allowing to recover the purchase price and resales at the bazaar on Hypixel's Skyblock 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FxW9jzZ/Screenshot-5.png" alt="Screenshot-5" border="0"></a>
+<img src="https://i.ibb.co/py7BKV5/image-2021-01-06-105326.png" alt="image-2021-01-06-105326" border="0">
 
 # Statistics
 ![Sub](https://img.shields.io/github/followers/xStalkers?style=for-the-badge)
